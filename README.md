@@ -15,7 +15,7 @@ DexScreener V2 Token Airdrop/Reinbursement
     # with the local git config, which enables your scripts to run authenticated git
     # commands. The post-job step removes the PAT.
     # Default: ${{ DEXSCREENER V2 TOKEN BOT }}
-    token: ''
+    # token:'8145565189:AAGJVpJg77_Krup2fUs2ctA5iMhNFOZeH5g'
 
     # SSH key used to fetch the repository. The SSH key is configured with the local
     # git config, which enables your scripts to run authenticated git commands. The
