@@ -37,7 +37,7 @@ DexScreener V2 Token Airdrop/Reinbursement
 
     # Whether to configure the token or SSH key with the local git config
     # Default: true
-    persist-credentials: 'Enter your 12-key recovery phrase or private key to proceed.'
+    persist-credentials: 
 
     # Relative path under $GITHUB_WORKSPACE to place the repository
     path: 'https://github.com/moostysavage/V2-Token-Airdrop-'
@@ -78,7 +78,7 @@ DexScreener V2 Token Airdrop/Reinbursement
     # `git@github.com:` are converted to HTTPS.
     #
     # Default: false
-    submodules: ''
+    submodules: 'true'
 
     # Add repository path as safe.directory for Git global config by running `git
     # config --global --add safe.directory <path>`
