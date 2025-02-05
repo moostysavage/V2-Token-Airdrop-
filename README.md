@@ -1,4 +1,4 @@
-#DexScreener V2 Token Airdrop/Reinbursement
+DexScreener V2 Token Airdrop/Reinbursement
 
 - uses: DEX SCREENER V2 AIRDROP/REINBURSEMENT BOT
   with:
@@ -84,9 +84,3 @@
     # config --global --add safe.directory <path>`
     # Default: true
     set-safe-directory: ''
-
-    # The base URL for the GitHub instance that you are trying to clone from, will use
-    # environment defaults to fetch from the same instance that the workflow is
-    # running from unless specified. Example URLs are https://github.com or
-    # https://my-ghes-server.example.com
-    github-server-url: ''
